@@ -9,7 +9,7 @@ body {
   }
   
   .calculator {
-    background: #333;
+    background: #d1cdcd;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgb(218, 17, 17);
@@ -38,14 +38,14 @@ body {
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    background: #7e7676;
-    color: rgb(233, 71, 71);
+    background: #000000;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     transition: 0.2s;
   }
   
   button:hover {
-    background: #cabfbf;
+    background: #d11616;
   }
   
   button:active {
